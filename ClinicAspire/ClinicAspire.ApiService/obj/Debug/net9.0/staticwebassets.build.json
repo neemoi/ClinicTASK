@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Dihz6CdY3e8JLCy5db1kiJJwlSWreiU5/s9as6+RdVE=",
+  "Source": "ClinicAspire.ApiService",
+  "BasePath": "_content/ClinicAspire.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
